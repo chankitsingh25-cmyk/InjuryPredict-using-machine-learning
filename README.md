@@ -3,7 +3,6 @@
 ## Model Details
 
 - **Model name:** Soccer Player Injury Prediction Model
-- **Model author:** [Yasir Mohammad, Data Scientist](https://www.linkedin.com/in/yasir-mohammad/)
 - **Model version:** v1.0
 - **Model type:** Binary Classification
 - **Model implementation:** XGBoost
