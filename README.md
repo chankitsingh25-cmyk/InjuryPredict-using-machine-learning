@@ -8,7 +8,6 @@
 - **Model implementation:** XGBoost
 - **Model code:** [Python Model](https://github.com/yasirbm/soccer_player_injury_model/blob/main/soccer_injury_model.ipynb)
 
-![Uploading image.png…]()
 
 
 ## Intended Use
