@@ -97,7 +97,3 @@ Below is an example of one of the 200 decision trees involved in the XGBoost mod
 - Relatively small dataset due to scarcity in available data for the features I was looking at. A model like XGBoost generally performs better with a larger sample size 
 - This focuses only on the premier league, which is just one of hundreds of leagues around the world 
 - The model focuses on Men’s football. The features that contribute to Women’s injuries may be entirely different
-
-## Licensing
-
-This model is licensed under the Apache License.
